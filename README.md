@@ -10,4 +10,3 @@ Learning to create a script where all user infrastructure, user groups, director
 [Original Repository](https://github.com/denilsonbonatti/linux-projeto1-iac "Original Repository")
 
 [LICENSE](./LICENSE)
-# Structure_Creation_Script_UDP
